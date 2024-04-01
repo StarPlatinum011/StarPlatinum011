@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **karanpun011@gmail.com**
 
-- 📄 Know about my experiences [https://starplatinum011.github.io/dashboard-grid/](https://starplatinum011.github.io/dashboard-grid/)
+- 📄 Know about my experiences [[https://starplatinum011.github.io/dashboard-grid/](https://starplatinum011.github.io/protfolio-v2/)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
