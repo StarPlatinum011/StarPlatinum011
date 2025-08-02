@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **karanpun011@gmail.com**
 
-- 📄 Know about my experiences [[https://starplatinum011.github.io/protfolio-v2/](https://starplatinum011.github.io/protfolio-v2/)]
+- 📄 Know about my experiences [[My resume](https://karanpun.netlify.app/)]
 
 
 
